@@ -1,0 +1,6 @@
+// debug light
+DEBUG_RED        255 0   0    5000
+DEBUG_GREEN      0   255 0    5000
+DEBUG_BLUE       0   0   255  5000
+DEBUG_L_1000     255 255 255  5000
+DEBUG_L_5000     255 128 128  5000

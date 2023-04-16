@@ -1,0 +1,18 @@
++0~gymlight      200 190 130  11000
+debug_rad        255 0   0    1024
+~SPOTRED         255 26  29   1024
+~SPOTGREEN       60  255 125  1024
+~LIGHT3B         155 155 235  2000
+
+// debug light
+DEBUG_L_10       255 0   0    10
+DEBUG_L_50       255 0   0    50
+DEBUG_L_100      255 0   0    100
+DEBUG_L_500      255 0   0    500
+DEBUG_L_1000     255 0   0    1000
+DEBUG_L_5000     255 0   0    5000
+DEBUG_L_10000    255 0   0    10000
+DEBUG_L_50000    255 0   0    50000
+DEBUG_L_100000   255 0   0    100000
+
+TECH_LITE1       255 235 160  60000
